@@ -8,6 +8,9 @@ Completely AI-generated, only questions are modified by AI, the following text i
 
 A classic Tetris game built with Python + Pygame, featuring polished visuals and smooth gameplay.
 
+<img width="406" height="504" alt="屏幕截图 2026-05-19 213810" src="https://github.com/user-attachments/assets/9ffd7ab0-97f9-4a4c-9f64-ee6d89a9980b" />
+
+
 ## 游戏特性 / Features
 
 - 7种标准方块（I/O/T/S/Z/J/L），支持SRS旋转踢墙系统
