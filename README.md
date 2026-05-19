@@ -1,3 +1,7 @@
+完全AI生成，只提出问题AI修改，下文也是
+
+Completely AI-generated, only questions are modified by AI, the following text is the same
+
 # 俄罗斯方块 / Tetris
 
 基于 Python + Pygame 开发的经典俄罗斯方块游戏，拥有精美的画面效果和流畅的操作体验。
